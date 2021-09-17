@@ -16,8 +16,8 @@ Accessbility is improved from orginal version by the following changes:
 - Corrected title element
 
 ## Technologies
-HTML
-CSS
+- HTML
+- CSS
 
 ## Mockup Image
 ./challenge01-horiseon/mockup.png
@@ -26,5 +26,5 @@ CSS
 https://kngurley25.github.io/challenge01-horiseon/
 
 ## Contributions
-Horiseon
-Kristin Gurley
+- Horiseon
+- Kristin Gurley
