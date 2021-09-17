@@ -19,11 +19,11 @@ Accessbility is improved from orginal version by the following changes:
 - HTML
 - CSS
 
-## Mockup Image
-![mockup](mockup.png)
-
 ## Website
 https://kngurley25.github.io/challenge01-horiseon/
+
+## Mockup Image
+![mockup](mockup.png)
 
 ## Contributions
 - Horiseon
