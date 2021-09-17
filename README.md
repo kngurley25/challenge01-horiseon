@@ -20,7 +20,7 @@ Accessbility is improved from orginal version by the following changes:
 - CSS
 
 ## Mockup Image
-/challenge01-horiseon/mockup.png
+![mockup](mockup.png)
 
 ## Website
 https://kngurley25.github.io/challenge01-horiseon/
