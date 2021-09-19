@@ -77,6 +77,14 @@ header nav ul li {
     margin-bottom: 20px;
     font-size: 36px;
 }
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
 
 /* benefits */
 .benefits {
@@ -102,35 +110,6 @@ header nav ul li {
     margin: 10px auto;
     max-width: 150px;
 }
-
-
-
-
-
-
-
-
-
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
-
-
-
-
-
-
-
-
-
-
 
 /* footer */
 footer {
