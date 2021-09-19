@@ -1,5 +1,9 @@
 # challenge01-horiseon
 
+## Purpose
+
+Original code recieved from Horiseon marketing company. 
+
 Project challenge01-horiseon takes existing code to refactor it. 
 
 Accessbility is improved from orginal version by the following changes:
@@ -11,14 +15,16 @@ Accessbility is improved from orginal version by the following changes:
 - Added alt attributes to images and icons references
 - Corrected title element
 
-Original code recieved from Horiseon marketing company. 
+## Technologies
+- HTML
+- CSS
 
-Technologies used:
-HTML
-CSS
-
-Image of product:
-./challenge01-horiseon/mockup.png
-
-Published location:
+## Website
 https://kngurley25.github.io/challenge01-horiseon/
+
+## Mockup Image
+![mockup](mockup.png)
+
+## Contributions
+- Horiseon
+- Kristin Gurley
